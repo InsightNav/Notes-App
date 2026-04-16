@@ -18,8 +18,7 @@ A simple and intuitive command-line notes application built in Python. Keep trac
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/InsightNav/Calculator.git
-   cd Calculator
+   git clone https://github.com/InsightNav/Notes-App.git
    ```
 
 2. **Ensure Python is installed**:
