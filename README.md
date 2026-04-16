@@ -80,7 +80,7 @@ NOTES-APP/
 └── README.md         # Project documentation
 ```
 
-## 🔮 Future Improvements (or contributorsF)
+## 🔮 Future Improvements (or contributors)
 
 - Add timestamps to notes for better organization
 - Support multi-line notes for detailed entries
